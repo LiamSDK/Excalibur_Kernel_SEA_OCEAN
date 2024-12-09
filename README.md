@@ -1,4 +1,4 @@
-Excalibur ム|彡 Sea | Ocean | (Android 12-15)
+Excalibur A|E Sea | Ocean | (Android 12-15)
 # Changelogs:
 !!! READ BEFORE DOING ANYTHING !!!
 
